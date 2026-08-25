@@ -9,9 +9,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-/**
- * High-level database operations used by TPAPlugin.
- */
 public final class DatabaseService implements AutoCloseable {
 
     private final SqliteService sqliteService;

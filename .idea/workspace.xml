@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b717f847-8904-4bb3-97c4-ebaf3c58c62c" name="Changes" comment="" />
+    <list default="true" id="b717f847-8904-4bb3-97c4-ebaf3c58c62c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/abbas/tPAPlugin/service/DatabaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/abbas/tPAPlugin/service/DatabaseService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -20,6 +25,69 @@
   <component name="MavenRunner">
     <option name="jreName" value="corretto-21" />
   </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0001774868795557" />
+      <entry key="MS500" value="1.1777596763234093" />
+      <entry key="S2" value="1.6493193013649425" />
+      <entry key="S5" value="1.8413636767236685" />
+      <entry key="S10" value="1.9181749387274425" />
+      <entry key="S30" value="2.0687611079609054" />
+      <entry key="S60" value="2.297380648273747" />
+      <entry key="M2" value="2.5511044884609873" />
+      <entry key="M5" value="2.789151435666709" />
+      <entry key="M10" value="2.8885201196545287" />
+      <entry key="M15" value="2.9242640276594534" />
+      <entry key="M30" value="2.961405530838779" />
+      <entry key="H1" value="2.980517599292739" />
+      <entry key="H2" value="2.990212057371306" />
+      <entry key="H4" value="2.995094286293849" />
+      <entry key="D1" value="2.999180745315795" />
+      <entry key="W1" value="2.999882923494434" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9661054096704647" />
+      <entry key="MS500" value="1.1691355238010461" />
+      <entry key="S2" value="1.6460145847678955" />
+      <entry key="S5" value="1.8398547013325244" />
+      <entry key="S10" value="1.9173830319896257" />
+      <entry key="S30" value="2.0684727487063945" />
+      <entry key="S60" value="2.2972179764160825" />
+      <entry key="M2" value="2.551012892297429" />
+      <entry key="M5" value="2.789110946791389" />
+      <entry key="M10" value="2.8884990715784986" />
+      <entry key="M15" value="2.924249802891275" />
+      <entry key="M30" value="2.9613983183283707" />
+      <entry key="H1" value="2.980513967276325" />
+      <entry key="H2" value="2.9902102348295077" />
+      <entry key="H4" value="2.995093373377758" />
+      <entry key="D1" value="2.999180592933607" />
+      <entry key="W1" value="2.999882901719917" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 1
@@ -29,30 +97,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Maven.tpaplugin [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.tpaplugin [package].executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.tpaplugin [clean].executor": "Run",
+    "Maven.tpaplugin [package].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.337" />
-        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.8665.337" />
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
       </set>
     </attachedChunks>
   </component>
