@@ -1,0 +1,63 @@
+name: TPAPlugin
+version: '${version}'
+main: org.abbas.tPAPlugin.TPAPlugin
+api-version: '1.21'
+
+commands:
+
+  tpa:
+    description: Send a TPA request
+    usage: /tpa <player>
+    permission: tpa.use
+
+  tpahere:
+    description: Ask a player to teleport to you
+    usage: /tpahere <player>
+    permission: tpahere.use
+
+  tpaccept:
+    description: Accept a pending TPA request
+    usage: /tpaccept
+    permission: tpa.accept
+
+  tpdeny:
+    description: Deny a pending TPA request
+    usage: /tpdeny
+    permission: tpa.deny
+
+  tpacancel:
+    description: Cancel your TPA request
+    usage: /tpacancel
+    permission: tpa.cancel
+
+  tpatoggle:
+    description: Toggle incoming TPA requests
+    usage: /tpatoggle
+    permission: tpa.toggle
+
+
+permissions:
+
+  tpa.use:
+    description: Allows the player to use /tpa
+    default: true
+
+  tpahere.use:
+    description: Allows the player to use /tpahere
+    default: true
+
+  tpa.accept:
+    description: Allows the player to accept TPA requests
+    default: true
+
+  tpa.deny:
+    description: Allows the player to deny TPA requests
+    default: true
+
+  tpa.cancel:
+    description: Allows the player to cancel TPA requests
+    default: true
+
+  tpa.toggle:
+    description: Allows the player to toggle TPA requests
+    default: true
